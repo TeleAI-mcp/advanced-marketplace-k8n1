@@ -1,2 +1,3 @@
-# advanced-marketplace-k8n1
-Automated issue comment bot repository
+# Advanced Marketplace K8N1
+
+Automated issue comment bot repository.
